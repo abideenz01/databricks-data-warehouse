@@ -1,7 +1,7 @@
 # Data-Warehouse+ Data Modeling 
 DATA WAREHOUSIN# Data Warehouse Projects
 
-This repository demonstrates a **star-schema data warehouse design and slowly changing dimesnions type and type 2** built using SQL.  
+This repository demonstrates a **star-schema data warehouse design and slowly changing dimesnions type 1 and type 2** built using SQL.  
 It includes **fact and dimension tables**, along with ETL scripts to populate them.  
 
 ---
